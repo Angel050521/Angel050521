@@ -16,9 +16,7 @@
 
 ### 🎨 Sobre Mí
 
-💡 **Ingeniero Informático** apasionado por transformar ideas en soluciones digitales. Me especializo en el desarrollo de aplicaciones móviles con **Flutter** y sistemas web modernos. Soy un profesional motivado, con un fuerte enfoque en el aprendizaje continuo y la resolución de problemas técnicos complejos.
-
-⚡ *"La tecnología es el medio para construir el futuro que imaginamos."*
+💡 **Ingeniero Informático** apasionado por transformar ideas en soluciones digitales. Me especializo en el desarrollo de aplicaciones móviles con **Flutter** y sistemas web modernos. Soy una persona motivada, con un fuerte enfoque en el aprendizaje continuo y la resolución de problemas técnicos complejos.
 
 ---
 
@@ -40,14 +38,6 @@
 *   🎬 **Teatro Constitución de 1814** - Sistema web de gestión de boletos para centros culturales.
 *   📥 **[YouTube Playlist Downloader](https://descargarplaylist-production.up.railway.app/)** - Web App para descarga masiva de contenido multimedia (Node.js).
 *   🍋 **[CITRIMEX](https://angel050521.github.io/citrimex/)** - Plataforma web corporativa para el sector agrícola.
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Angel050521&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Angel050521&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 ---
 
