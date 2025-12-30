@@ -16,7 +16,7 @@
 
 ### 🎨 Sobre Mí
 
-💡 **Ingeniero Informático** apasionado por transformar ideas en soluciones digitales. Me especializo en el desarrollo de aplicaciones móviles con **Flutter** y sistemas web modernos. Soy una persona motivada, con un fuerte enfoque en el aprendizaje continuo y la resolución de problemas técnicos complejos.
+**Ingeniero Informático** apasionado por transformar ideas en soluciones digitales. Me especializo en el desarrollo de aplicaciones móviles con **Flutter** y sistemas web modernos. Soy una persona motivada, con un fuerte enfoque en el aprendizaje continuo y la resolución de problemas técnicos complejos.
 
 ---
 
