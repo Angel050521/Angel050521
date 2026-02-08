@@ -57,7 +57,7 @@ Me especializo en el **desarrollo web con HTML, CSS y Java Script** en la creaci
     * **Rol:** Diseño UX/UI y estructura funcional.
     * **Logro:** Finalista en fase regional del concurso INNOVATEC.
 
-* **Teatro Constitución de 1814**
+* **Teatro Constitución de 1814 (https://www.facebook.com/share/p/184x64ch4j/)**
     * *Portal web cultural.*
     * **Tech:** SQL Server, Web Standards.
     * **Logro:** Desarrollo de lógica compleja para la compra y gestión de boletos en base de datos.
