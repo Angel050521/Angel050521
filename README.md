@@ -17,7 +17,7 @@
   ---
 </div>
 
-## 👨‍💻 Sobre Mí
+## Sobre Mí
 
 ¡Hola! Soy un **Ingeniero Informático en formación (8vo Semestre)** apasionado por crear software eficiente y escalable.
 
@@ -27,15 +27,15 @@ Me caracterizo por mi pensamiento analítico, rápida adaptabilidad a nuevas tec
 
 ---
 
-## 🎯 Actualmente Trabajando En
+## Actualmente Trabajando En
 
-- 🍽️ **Página Web + Bot Inteligente** para Restaurante Meranti (Apatzingán)
-- 🎭 **Sistema de Gestión y Ventas de Taquilla** - Teatro Constitución 1814 (Proyecto Municipal)
-- 🤖 Expansión de capacidades de automatización con n8n + IA
+- **Página Web + Bot Inteligente** para Restaurante Meranti (Apatzingán)
+- **Sistema de Gestión y Ventas de Taquilla** - Teatro Constitución 1814 (Proyecto Municipal)
+- Expansión de capacidades de automatización con n8n + IA
 
 ---
 
-## 🏆 Reconocimientos
+## Reconocimientos
 
 <table>
   <tr>
@@ -59,7 +59,7 @@ Me caracterizo por mi pensamiento analítico, rápida adaptabilidad a nuevas tec
 
 ---
 
-## 📜 Certificaciones
+## Certificaciones
 
 | Entidad | Certificación |
 | :--- | :--- |
@@ -69,9 +69,9 @@ Me caracterizo por mi pensamiento analítico, rápida adaptabilidad a nuevas tec
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
-### 🔥 Dominadas
+### Dominadas
 ```
 HTML5 • CSS3 • JavaScript • SQL Server • MySQL • PHP • n8n • Git • VS Code
 ```
@@ -88,7 +88,7 @@ HTML5 • CSS3 • JavaScript • SQL Server • MySQL • PHP • n8n • Git �
   <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
 
-### 🌱 Nivel Intermedio
+### Nivel Intermedio
 ```
 Flutter • Dart • Firebase • Node.js • AWS Cloud Services
 ```
@@ -103,9 +103,9 @@ Flutter • Dart • Firebase • Node.js • AWS Cloud Services
 
 ---
 
-## 🚀 Proyectos Destacados
+## Proyectos Destacados
 
-### 🎭 Sistema de Gestión y Ventas de Taquilla - Teatro Constitución 1814
+### Sistema de Gestión y Ventas de Taquilla - Teatro Constitución 1814
 ![Status](https://img.shields.io/badge/Status-Deployed-success?style=flat-square)
 ![Recognition](https://img.shields.io/badge/Reconocimiento-Ayuntamiento-blue?style=flat-square)
 
@@ -131,16 +131,16 @@ Aplicación móvil profesional para comerciantes que manejan ventas a crédito.
 **Tech Stack:** `Flutter` `Dart` `Firebase`
 
 **Características:**
-- 📊 Arquitectura escalable y moderna
-- 🎨 Diseño UX/UI intuitivo
-- ☁️ Backend as a Service con Firebase
-- 📈 Control completo de cuentas por cobrar
+- Arquitectura escalable y moderna
+- Diseño UX/UI intuitivo
+- Backend as a Service con Firebase
+- Control completo de cuentas por cobrar
 
-🔗 [Landing Page](https://angel050521.github.io/gesty-landingPage/) | [Descargar App](#)
+[Landing Page](https://angel050521.github.io/gesty-landingPage/) | [Descargar App](#)
 
 ---
 
-### 🎓 PADDI - Plataforma de Apoyo en Discalculia Infantil
+### PADDI - Plataforma de Apoyo en Discalculia Infantil
 ![Status](https://img.shields.io/badge/Status-Finalist-yellow?style=flat-square)
 ![Award](https://img.shields.io/badge/INNOVATEC-Nacional-orange?style=flat-square)
 
@@ -149,13 +149,13 @@ Plataforma educativa para detección temprana y apoyo en discalculia infantil.
 **Rol:** Diseño UX/UI y arquitectura funcional
 
 **Logros:**
-- 🏆 Finalista en etapa regional INNOVATEC
-- 🥇 Participación en etapa nacional
-- 🎯 Impacto social en educación inclusiva
+- Finalista en etapa regional INNOVATEC
+- Participación en etapa nacional
+- Impacto social en educación inclusiva
 
 ---
 
-### 🎵 YouTube Playlist Downloader
+### YouTube Playlist Downloader
 ![Status](https://img.shields.io/badge/Status-Live-success?style=flat-square)
 
 Herramienta de automatización para descarga masiva de contenido multimedia.
@@ -163,15 +163,15 @@ Herramienta de automatización para descarga masiva de contenido multimedia.
 **Tech Stack:** `Node.js` `Railway`
 
 **Características:**
-- ⚡ Descarga de listas completas
-- 🎯 Interfaz simple y funcional
-- ☁️ Deployed en Railway
+- Descarga de listas completas
+- Interfaz simple y funcional
+- Deployed en Railway
 
-🔗 [Probar en Vivo](https://ytdl.scriptspark.net/)
+[Probar en Vivo](https://ytdl.scriptspark.net/)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=angel050521&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -180,22 +180,22 @@ Herramienta de automatización para descarga masiva de contenido multimedia.
 
 ---
 
-## 💼 Experiencia Reciente
+## Experiencia Reciente
 
-**🤖 Desarrollador de Automatizaciones con IA** | Freelance  
+**Desarrollador de Automatizaciones con IA** | Freelance  
 *Proyectos de automatización inteligente usando n8n + Gemini/ChatGPT*
 - Desarrollo de bots conversacionales para atención al cliente
 - Automatización de procesos administrativos
 - Sistemas de agendamiento inteligente
 
-**💻 Desarrollador Full Stack** | Proyectos Municipales & Privados  
+**Desarrollador Full Stack** | Proyectos Municipales & Privados  
 *Desarrollo de sistemas web para instituciones públicas y negocios*
 - Sistema de taquilla Teatro Constitución 1814
 - Página web + Bot para Restaurante Meranti
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 <p align="center">
   <a href="https://angelgabriel.dev" target="_blank">
@@ -214,7 +214,7 @@ Herramienta de automatización para descarga masiva de contenido multimedia.
 
 <div align="center">
   
-  ### 🚀 Abierto a colaboraciones y proyectos freelance
+  ### Abierto a colaboraciones y proyectos freelance
   
   *"La mejor manera de predecir el futuro es crearlo"*
   
