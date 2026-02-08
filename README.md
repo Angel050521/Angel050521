@@ -173,10 +173,13 @@ Herramienta de automatización para descarga masiva de contenido multimedia.
 
 ## GitHub Stats
 
-<a href="https://github.com/Angel050521">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Angel050521&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Angel050521&layout=compact&theme=tokyonight&hide_border=true"/>
-</a>
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Angel050521&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Angel050521&theme=tokyonight) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Angel050521&theme=tokyonight&utcOffset=-6)
+
+</div>
 
 ---
 
