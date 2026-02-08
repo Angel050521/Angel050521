@@ -1,8 +1,8 @@
 <div align="center">
   
-  # ⚡ Angel Gabriel Rodriguez Arroyo | Ingeniero Informático
+  # Angel Gabriel Rodriguez Arroyo | Ingeniero Informático
 
-  ### 🚀 Mobile & Web Developer | Cloud & Automation Enthusiast
+  ### Mobile & Web Developer | Cloud & Automation Enthusiast
   
   <p align="center">
     <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -16,9 +16,9 @@
 
 ### 🎨 Sobre Mí
 
-¡Hola! Soy un **Ingeniero Informático en formación (7mo Semestre)** apasionado por la creación de software eficiente y escalable. 
+¡Hola! Soy un **Ingeniero Informático en formación (8vo Semestre)** apasionado por la creación de software eficiente y escalable. 
 
-Me especializo en el **desarrollo móvil con Flutter** y la creación de soluciones web. Recientemente, he expandido mi enfoque hacia la **automatización de flujos de trabajo (n8n)** y la integración de **Agentes de IA**. Me caracterizo por mi pensamiento analítico, adaptabilidad a nuevas tecnologías y un fuerte interés en la escritura creativa y la innovación tecnológica.
+Me especializo en el **desarrollo web con HTML, CSS y Java Script** en la creación de soluciones web. Recientemente, he expandido mi enfoque hacia la **automatización de flujos de trabajo (n8n)** y la integración de **Agentes de IA**. Me caracterizo por mi pensamiento analítico, adaptabilidad a nuevas tecnologías y un fuerte interés en la escritura creativa y la innovación tecnológica.
 
 ---
 
@@ -52,7 +52,7 @@ Me especializo en el **desarrollo móvil con Flutter** y la creación de solucio
     * **Tech:** Flutter, Dart, Firebase (Backend as a Service).
     * **Logro:** Implementación de arquitectura moderna y diseño UX/UI intuitivo.
 
-* 🧠 **PADDI (Proyecto INNOVATEC)**
+* 🧠 **PADDI (Proyecto INNOVATEC)**  
     * *Plataforma de aprendizaje para detección y apoyo en discalculia infantil.*
     * **Rol:** Diseño UX/UI y estructura funcional.
     * **Logro:** Finalista en fase regional del concurso INNOVATEC.
