@@ -14,7 +14,7 @@
   ---
 </div>
 
-### 🎨 Sobre Mí
+### Sobre Mí
 
 ¡Hola! Soy un **Ingeniero Informático en formación (8vo Semestre)** apasionado por la creación de software eficiente y escalable. 
 
@@ -22,7 +22,7 @@ Me especializo en el **desarrollo web con HTML, CSS y Java Script** en la creaci
 
 ---
 
-### 🏆 Certificaciones
+### Certificaciones
 
 | Entidad | Certificación |
 | :--- | :--- |
@@ -32,7 +32,7 @@ Me especializo en el **desarrollo web con HTML, CSS y Java Script** en la creaci
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 | Categoría | Tecnologías |
 | :--- | :--- |
@@ -47,28 +47,28 @@ Me especializo en el **desarrollo web con HTML, CSS y Java Script** en la creaci
 
 ### 🚀 Proyectos Destacados
 
-* 🟢 **[GESTY](https://angel050521.github.io/gesty-landingPage/)**
+* **[GESTY](https://angel050521.github.io/gesty-landingPage/)**
     * *App Android para gestión de ventas a crédito.*
     * **Tech:** Flutter, Dart, Firebase (Backend as a Service).
     * **Logro:** Implementación de arquitectura moderna y diseño UX/UI intuitivo.
 
-* 🧠 **PADDI (Proyecto INNOVATEC)**  
+* **PADDI (Proyecto INNOVATEC)**  
     * *Plataforma de aprendizaje para detección y apoyo en discalculia infantil.*
     * **Rol:** Diseño UX/UI y estructura funcional.
     * **Logro:** Finalista en fase regional del concurso INNOVATEC.
 
-* 🎬 **Teatro Constitución de 1814**
+* **Teatro Constitución de 1814**
     * *Portal web cultural.*
     * **Tech:** SQL Server, Web Standards.
     * **Logro:** Desarrollo de lógica compleja para la compra y gestión de boletos en base de datos.
 
-* 📥 **[YouTube Playlist Downloader](https://descargarplaylist-production.up.railway.app/)**
+* **[YouTube Playlist Downloader](https://descargarplaylist-production.up.railway.app/)**
     * *Herramienta de automatización multimedia.*
     * **Tech:** Node.js.
 
 ---
 
-### 📫 Contacto
+### Contacto
 
 <p align="left">
   <a href="https://angelgabriel.dev" target="_blank">
