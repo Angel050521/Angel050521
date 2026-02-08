@@ -136,7 +136,7 @@ Aplicación móvil profesional para comerciantes que manejan ventas a crédito.
 - Backend as a Service con Firebase
 - Control completo de cuentas por cobrar
 
-[Landing Page](https://angel050521.github.io/gesty-landingPage/) | [Descargar App](#)
+[Landing Page](https://angel050521.github.io/gesty-landingPage/) | [Descargar App](https://play.google.com/store/apps/details?id=com.miempresa.mifiado)
 
 ---
 
